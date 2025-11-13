@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 from startup_auth import verify_license
 verify_license()
 
